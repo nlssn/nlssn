@@ -1,3 +1,4 @@
+![Johannes Nilsson](https://raw.githubusercontent.com/nlssn/nlssn/master/header.jpg)
 ### Hi there 👋
 
 <!--
